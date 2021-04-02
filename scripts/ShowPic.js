@@ -15,3 +15,4 @@ function countBodyChildren(){
 }
 
 window.onload =  countBodyChildren;
+// let us modify this file!
